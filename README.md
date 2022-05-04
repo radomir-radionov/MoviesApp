@@ -7,7 +7,7 @@
 
 **Redux** - для хранения состояние;  
 **Redux-saga** - для работы с асинхронностями(запросы);    
-**Styled-Component** - для стилизации;
+**Styled-Component** - для стилизации;  
 **dotenv** - для системных переменных( в моём случаи ключ от The Movie Database API);  
 **react-router-dom** - для навигации.
 
